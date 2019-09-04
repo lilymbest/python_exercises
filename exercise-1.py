@@ -16,3 +16,4 @@ if some_char in 'a e i o u':
     print(f'The letter {some_char} is a vowel')
 else:
     print(f'The letter {some_char} is a consonant')
+
